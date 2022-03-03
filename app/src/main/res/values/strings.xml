@@ -3,4 +3,5 @@
     <string name="default_name">Hello World!</string>
     <string name="changed_name">Slava Ukraini!</string>
     <string name="btn_change_name">Click Me!</string>
+    <string name="btn_change_color">Support!</string>
 </resources>
